@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "577394811467",
+    "firebase_url": "https://bd-comedor.firebaseio.com",
+    "project_id": "bd-comedor",
+    "storage_bucket": "bd-comedor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577394811467:android:cff0ac06943a97b39a63ce",
+        "android_client_info": {
+          "package_name": "com.mimi.tienda_mimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577394811467-9raeg5d13bcoi0is2t41gi8or85feirl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mimi.tienda_mimi",
+            "certificate_hash": "363b7a2c263a5d17c56bc555a35dd9cfbf3b1fb1"
+          }
+        },
+        {
+          "client_id": "577394811467-ptv22lj2jcbuc3orudld7edsct1aekrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8GEBTdgxx95LHLRLHSnKrY5A8Vu2lqZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577394811467-ptv22lj2jcbuc3orudld7edsct1aekrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

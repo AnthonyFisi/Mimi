@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+
+const WHITE=Colors.white;
+const GREENCHANGE=Colors.green;
+const GREENCART= Color(0xFF00E676);
+const BLACKOPACITY=Colors.black38;
+const YELLOW = Color(0xfffbed96);
+const BLUE = Color(0xffabecd6);
+const BLUE_DEEP = Color(0xffA8CBFD);
+const BLUE_LIGHT = Color(0xffAED3EA);
+const PURPLE = Color(0xffccc3fc);
+const RED =Color.fromRGBO(5, 175, 242, 1);
+const RED7 =Color.fromRGBO(255, 80, 54, 1);
+const RED6=Color.fromRGBO(247, 94, 37, 1);
+const RED5 = Color(0xFFFFc500);
+const RED4 = Color.fromRGBO(244, 91, 85, 1);
+const RED3= Color.fromRGBO(245, 136, 115, 1);
+const RED2 = Color.fromRGBO(217, 4, 82, 1);
+const GREEN = Color(0xffc7e5b4);
+const RED_LIGHT = Color(0xffFFC3A0);
+const TEXT_BLACK = Color(0xFF353535);
+const TEXT_BLACK_LIGHT = Color(0xFF34323D);
+const RED_PROOF= Color.fromRGBO(245, 136, 115, 1);
